@@ -7,3 +7,4 @@
  To jest pierwszy commit który ma trafić na gałąź_testowa_1
  
  galaz_testowa_2 zmiana 1
+ galaz_testowa_2 zmiana 2
